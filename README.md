@@ -1,7 +1,3 @@
-Of course\! I have enhanced and structured the information you provided by integrating the technical details from the notebook. The result is a comprehensive, professional README file optimized for your portfolio.
-
------
-
 # Heartbeat Classification Using Deep Learning on ECG Time Series Data
 
 As a machine learning engineer passionate about applying AI to healthcare challenges, I developed this project to classify electrocardiogram (ECG) signals for arrhythmia detection. By implementing and rigorously comparing multiple deep learning architectures—including ANNs, CNNs, LSTMs, and a hybrid Transformer—I demonstrate my expertise in end-to-end time series classification. This work highlights my practical skills in handling imbalanced datasets, building complex models with TensorFlow and Keras, and leveraging ensemble techniques for improved performance, making it a strong addition to my portfolio for roles in AI-driven medical diagnostics.
